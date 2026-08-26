@@ -21,7 +21,7 @@ Goal — to answer the following questions:
 - Are there outliers and strong correlations in the dataset?
 """
 
-!pip install opendatasets
+!pip install legacy-cgi opendatasets
 
 import opendatasets as od
 
